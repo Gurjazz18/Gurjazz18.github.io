@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/htpps//Gurjazz18.github.io/static/css/main.073c9b0a.css",
-    "main.js": "/htpps//Gurjazz18.github.io/static/js/main.b433b518.js",
-    "static/js/787.128fc6e9.chunk.js": "/htpps//Gurjazz18.github.io/static/js/787.128fc6e9.chunk.js",
-    "static/media/logo.svg": "/htpps//Gurjazz18.github.io/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/htpps//Gurjazz18.github.io/index.html",
-    "main.073c9b0a.css.map": "/htpps//Gurjazz18.github.io/static/css/main.073c9b0a.css.map",
-    "main.b433b518.js.map": "/htpps//Gurjazz18.github.io/static/js/main.b433b518.js.map",
-    "787.128fc6e9.chunk.js.map": "/htpps//Gurjazz18.github.io/static/js/787.128fc6e9.chunk.js.map"
+    "main.css": "/static/css/main.073c9b0a.css",
+    "main.js": "/static/js/main.328ab46b.js",
+    "static/js/787.128fc6e9.chunk.js": "/static/js/787.128fc6e9.chunk.js",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "main.073c9b0a.css.map": "/static/css/main.073c9b0a.css.map",
+    "main.328ab46b.js.map": "/static/js/main.328ab46b.js.map",
+    "787.128fc6e9.chunk.js.map": "/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.b433b518.js"
+    "static/js/main.328ab46b.js"
   ]
 }
